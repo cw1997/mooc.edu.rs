@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>
-        <strong>M(assive) O(pen) O(nline) C(ourses)</strong> .edu.rs
+        www. <strong>M(assive) O(pen) O(nline) C(ourses)</strong> .edu.rs
       </h1>
       <div className={styles.description}>
         <p>
